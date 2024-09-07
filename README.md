@@ -18,6 +18,8 @@ Additionally, this custom GPT helps users consider important factors such as ima
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
