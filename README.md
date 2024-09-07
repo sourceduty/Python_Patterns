@@ -1,4 +1,4 @@
-![Examples](https://github.com/user-attachments/assets/4ee476d0-2eae-4d4f-81ea-36fedb2ad227)
+![Examples](https://github.com/user-attachments/assets/391031ba-bce1-4a46-a386-f47b33eb5b9c)
 
 > Create pattern images using Python.
 
