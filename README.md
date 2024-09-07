@@ -27,6 +27,10 @@ Program a python pattern.
 ![Python Patterns](https://github.com/user-attachments/assets/e857af57-e42c-4c68-843b-a730bcc669b6)
 
 #
+
+![Examples](https://github.com/user-attachments/assets/588733ae-310c-40e6-9f0c-36bbd758b34f)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
