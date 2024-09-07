@@ -20,6 +20,10 @@ Program a python pattern.
 
 #
 
+![Example](https://github.com/user-attachments/assets/2dc57b49-f1e1-4f7b-9bc3-3dcad0eaac15)
+
+#
+
 ![Python Patterns](https://github.com/user-attachments/assets/e857af57-e42c-4c68-843b-a730bcc669b6)
 
 #
