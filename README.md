@@ -1,4 +1,4 @@
-![Python Patterns](https://github.com/user-attachments/assets/e857af57-e42c-4c68-843b-a730bcc669b6)
+![Examples](https://github.com/user-attachments/assets/4ee476d0-2eae-4d4f-81ea-36fedb2ad227)
 
 > Create pattern images using Python.
 
@@ -9,6 +9,10 @@
 The GPT takes a step-by-step approach, asking users specific questions to determine their preferences regarding pattern styles, colors, and shapes. By presenting these options in a multiple-choice format, it ensures that the user can make decisions easily and without confusion. Once the user selects their preferences, the GPT generates or explains the code needed to create the chosen pattern. It encourages experimentation and customization, helping users explore different ways to tweak the designs for unique outcomes.
 
 Additionally, this custom GPT helps users consider important factors such as image size and export formats, ensuring that the final pattern image is both visually appealing and functional for their needs. Whether users are generating simple designs or complex visuals, this GPT aims to make the process intuitive and rewarding by offering personalized guidance, useful code examples, and clear explanations of each step.
+
+#
+
+![Python Patterns](https://github.com/user-attachments/assets/e857af57-e42c-4c68-843b-a730bcc669b6)
 
 #
 ### Related Links
