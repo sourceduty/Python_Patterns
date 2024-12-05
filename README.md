@@ -1,3 +1,4 @@
+![Fractal](https://github.com/user-attachments/assets/2c42dc1f-f123-4ee1-8b77-75b2240a1f92)
 ![Examples](https://github.com/user-attachments/assets/391031ba-bce1-4a46-a386-f47b33eb5b9c)
 
 > Create pattern images using Python.
@@ -16,6 +17,7 @@ Additionally, this custom GPT helps users consider important factors such as ima
 Create a new pattern image.
 Create an example pattern image.
 Program a python pattern.
+Print a cheat sheet for this custom GPT.
 ```
 
 #
